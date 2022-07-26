@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constructor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructerOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DefaultConstructer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DefaultConstructerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ParametrizedConstructer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticVariable.java" afterDir="false" />
-    </list>
+    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
