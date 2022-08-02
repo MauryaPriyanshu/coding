@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Array/out/production/Array/Subset.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/out/production/Array/Subset.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Array/src/Subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/src/Subset.java" afterDir="false" />
-    </list>
+    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/github/coding/constructor",
+    "last_opened_file_path": "D:/github/coding/prepration",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
