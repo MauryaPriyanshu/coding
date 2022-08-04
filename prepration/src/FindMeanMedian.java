@@ -6,7 +6,7 @@ public class FindMeanMedian {
         int length = arr.length;
 
         System.out.println("Print the mean:" + findMean(arr,length));
-  //      System.out.println("Print the median:" + findMedian(arr,length));
+       System.out.println("Print the median:" + findMedian(arr,length));
     }
 
     public static double findMean(int arr[], int length) {
@@ -19,17 +19,17 @@ public class FindMeanMedian {
     }
 
 
+
+
+      public static double findMedian(int arr[], int length){
+      Arrays.sort(arr);
+        if(length % 2 != 0)
+        {
+            return (double)arr[length/2];
+        }
+        else {
+             return (double) (arr[(length -1)/2] + arr[length/2]) / 2.0;
+
+        }
+    }
 }
-
-
-//        Arrays.sort(arr);
-//        if(length % 2 != 0)
-//        {
-//            System.out.println(arr[length/2]);
-//        }
-//        else {
-//            double m1 = arr[([(length -1)/2] + arr[length/2])/2.0;
-//            System.out.println(m1);
-//        }
-//    }
-//}
