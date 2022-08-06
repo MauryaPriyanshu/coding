@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="" />
+    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../prepration/out/production/prepration/SecondMinElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../prepration/out/production/prepration/SecondMinElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prepration/src/SecondMinElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prepration/src/SecondMinElement.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,16 +39,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UsedSuper3">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Animal" />
+  <component name="RunManager" selected="Application.TestPolymorphism2">
+    <configuration name="Splendor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Splendor" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticBlock" />
+    <configuration name="TestPolymorphism2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPolymorphism2" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPolymorphism2" />
+        <item itemvalue="Application.Splendor" />
         <item itemvalue="Application.UsedSuper3" />
         <item itemvalue="Application.UsedSuper2" />
         <item itemvalue="Application.UsedSuper" />
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.StaticBlock" />
       </list>
     </recent_temporary>
   </component>

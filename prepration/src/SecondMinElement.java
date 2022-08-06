@@ -19,7 +19,7 @@ public class SecondMinElement {
            {
                min2 = min;
                min = arr[i];
-               System.out.print("demo"+ min);
+
            }
            else
            {
