@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../prepration/out/production/prepration/SecondMinElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../prepration/out/production/prepration/SecondMinElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prepration/src/SecondMinElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prepration/src/SecondMinElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prepration/out/production/prepration/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../prepration/out/production/prepration/InsertionSort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +28,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/github/coding/prepration",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/github/coding/constructor&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TestPolymorphism2">
+}</component>
+  <component name="RunManager" selected="Application.Honda">
+    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnimalDemo" />
+      <module name="constructor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Honda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Honda" />
+      <module name="constructor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Splendor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Splendor" />
       <module name="constructor" />
@@ -54,20 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsedSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsedSuper" />
-      <module name="constructor" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsedSuper2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsedSuper2" />
-      <module name="constructor" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UsedSuper3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UsedSuper3" />
       <module name="constructor" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Honda" />
+        <item itemvalue="Application.AnimalDemo" />
         <item itemvalue="Application.TestPolymorphism2" />
         <item itemvalue="Application.Splendor" />
         <item itemvalue="Application.UsedSuper3" />
-        <item itemvalue="Application.UsedSuper2" />
-        <item itemvalue="Application.UsedSuper" />
       </list>
     </recent_temporary>
   </component>
