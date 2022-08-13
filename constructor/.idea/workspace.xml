@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../prepration/out/production/prepration/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../prepration/out/production/prepration/InsertionSort.class" afterDir="false" />
-    </list>
+    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,37 +36,37 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Honda">
-    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnimalDemo" />
+  <component name="RunManager" selected="Application.testinterface2">
+    <configuration name="MultipleInheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultipleInheritence" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Honda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Honda" />
+    <configuration name="Printable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Printable" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Splendor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Splendor" />
+    <configuration name="testInterface1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testInterface1" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPolymorphism2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestPolymorphism2" />
+    <configuration name="testInterface2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testInterface2" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsedSuper3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsedSuper3" />
+    <configuration name="testinterface2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testinterface2" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Honda" />
-        <item itemvalue="Application.AnimalDemo" />
-        <item itemvalue="Application.TestPolymorphism2" />
-        <item itemvalue="Application.Splendor" />
-        <item itemvalue="Application.UsedSuper3" />
+        <item itemvalue="Application.testinterface2" />
+        <item itemvalue="Application.MultipleInheritence" />
+        <item itemvalue="Application.testInterface2" />
+        <item itemvalue="Application.testInterface1" />
+        <item itemvalue="Application.Printable" />
       </list>
     </recent_temporary>
   </component>
