@@ -36,7 +36,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.testinterface2">
+  <component name="RunManager" selected="Application.MyPack1">
+    <configuration name="DemoInAb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoInAb" />
+      <module name="constructor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultipleInheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultipleInheritence" />
       <module name="constructor" />
@@ -44,23 +51,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Printable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Printable" />
+    <configuration name="MyPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypack.MyPack" />
       <module name="constructor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testInterface1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testInterface1" />
+    <configuration name="MyPack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypack.MyPack1" />
       <module name="constructor" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testInterface2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testInterface2" />
-      <module name="constructor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyPack1" />
+        <item itemvalue="Application.MyPack" />
+        <item itemvalue="Application.DemoInAb" />
         <item itemvalue="Application.testinterface2" />
         <item itemvalue="Application.MultipleInheritence" />
-        <item itemvalue="Application.testInterface2" />
-        <item itemvalue="Application.testInterface1" />
-        <item itemvalue="Application.Printable" />
       </list>
     </recent_temporary>
   </component>
