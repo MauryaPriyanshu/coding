@@ -36,7 +36,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyPack1">
+  <component name="RunManager" selected="Application.MypackDemo">
     <configuration name="DemoInAb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoInAb" />
       <module name="constructor" />
@@ -44,14 +44,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleInheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultipleInheritence" />
+    <configuration name="MypackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypack.MypackDemo" />
       <module name="constructor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="mypack.MyPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypack.MyPack" />
       <module name="constructor" />
       <extension name="coverage">
@@ -64,7 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="mypack.MyPack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypack.MyPack1" />
       <module name="constructor" />
       <extension name="coverage">
@@ -86,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyPack1" />
-        <item itemvalue="Application.MyPack" />
+        <item itemvalue="Application.MypackDemo" />
+        <item itemvalue="Application.mypack.MyPack1" />
+        <item itemvalue="Application.mypack.MyPack" />
         <item itemvalue="Application.DemoInAb" />
         <item itemvalue="Application.testinterface2" />
-        <item itemvalue="Application.MultipleInheritence" />
       </list>
     </recent_temporary>
   </component>
