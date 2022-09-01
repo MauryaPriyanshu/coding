@@ -58,7 +58,7 @@ public class SingleLinkedListDemo {
         System.out.println("Adding " + data + " at last of the linked list");
         if (head == null) {
             head = new Node(data);
-//            return;
+            return;
         }else {
 
             Node temp1 = head;

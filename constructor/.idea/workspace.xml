@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="" />
+    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../datastructure/out/production/datastructure/AddLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/out/production/datastructure/AddLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datastructure/out/production/datastructure/arvind/linkedlist/SingleLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/out/production/datastructure/arvind/linkedlist/SingleLinkedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datastructure/src/AddLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/src/AddLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../datastructure/src/arvind/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/src/arvind/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,30 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/github/coding/prepration",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/github/coding/constructor&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="DemoInAb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoInAb" />
+}</component>
+  <component name="RunManager" selected="Application.FindAccOFSubString">
+    <configuration name="FindAccOFSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAccOFSubString" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MypackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypack.MypackDemo" />
+    <configuration name="GenerateFrequencyMapOfGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.GenerateFrequencyMapOfGivenString" />
       <module name="constructor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mypack.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,19 +62,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="HashMapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapDemo1" />
       <module name="constructor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mypack.MyPack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypack.MyPack" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.MapExample" />
       <module name="constructor" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mypack.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,26 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mypack.MyPack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypack.MyPack1" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
       <module name="constructor" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mypack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MypackDemo" />
-        <item itemvalue="Application.mypack.MyPack1" />
-        <item itemvalue="Application.mypack.MyPack" />
-        <item itemvalue="Application.DemoInAb" />
+        <item itemvalue="Application.FindAccOFSubString" />
+        <item itemvalue="Application.HashMapDemo1" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.GenerateFrequencyMapOfGivenString" />
       </list>
     </recent_temporary>
   </component>
