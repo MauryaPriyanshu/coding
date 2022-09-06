@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../datastructure/out/production/datastructure/AddLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/out/production/datastructure/AddLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../datastructure/out/production/datastructure/arvind/linkedlist/SingleLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/out/production/datastructure/arvind/linkedlist/SingleLinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../datastructure/src/AddLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/src/AddLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../datastructure/src/arvind/linkedlist/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../datastructure/src/arvind/linkedlist/SingleLinkedListDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="5ae71c5c-ad75-4349-9e57-7fb36aa6f335" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +26,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/github/coding/constructor&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/github/coding/datastructure",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.FindAccOFSubString">
     <configuration name="FindAccOFSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindAccOFSubString" />
