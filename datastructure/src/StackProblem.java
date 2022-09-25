@@ -28,7 +28,7 @@ public class StackProblem {
 
         while(!stack.isEmpty()){
             System.out.println(stack.pop());
-            
+
 
         }
     }
