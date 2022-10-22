@@ -12,14 +12,15 @@ public class Pangram {
                 System.out.println("Sentence is not pangram!");
             }
         }
-                System.out.println("Sentence is pangram!");
+        System.out.println("Sentence is pangram!");
 
 
     }
     public static void main(String []  args){
-        String sentence = "qwerttuiopasdfghjklzxcvbnm";
+        String sentence = "qwerttuiopaysdfghjklzxcvbnm";
         System.out.println("Print the sentence:- " + sentence);
         checkIfPangram(sentence);
+
 
     }
 }
