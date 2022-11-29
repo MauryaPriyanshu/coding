@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedInMCQ/LinkedInMCQ.iml" filepath="$PROJECT_DIR$/LinkedInMCQ/LinkedInMCQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicprograms/basicprograms.iml" filepath="$PROJECT_DIR$/basicprograms/basicprograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/coding.iml" filepath="$PROJECT_DIR$/.idea/coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructor/constructor.iml" filepath="$PROJECT_DIR$/constructor/constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure/datastructure.iml" filepath="$PROJECT_DIR$/datastructure/datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prepration/prepration.iml" filepath="$PROJECT_DIR$/prepration/prepration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
