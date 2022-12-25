@@ -1,5 +1,5 @@
 public class PowerOfNumber {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         System.out.println(fastPower(3978432,5,1000000007));
     }
     static long fastPower(long a, long b, int n){
