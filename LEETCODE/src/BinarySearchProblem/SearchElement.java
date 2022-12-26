@@ -14,7 +14,7 @@ public class SearchElement {
             int mid = (low + high) / 2;
             if (nums[mid] == target) {
                 System.out.println("find target element at index of: " + mid);
-                 
+
             }
             if (nums[low] <= nums[mid]) {
                 if (nums[low] <= target && nums[mid] >= target) {
